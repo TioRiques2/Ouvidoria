@@ -1,0 +1,14 @@
+1 - Fala.Br 
+https://falabr.cgu.gov.br/web/home?modoOuvidoria=1
+
+2 - Ouvidor sus 
+http://ouvprod01.saude.gov.br/ouvidor/CadastroDemandaPortal.do
+
+3 - E-sic
+https://acessoainformacao.am.gov.br/cadastro/
+
+4 - Site do Hemoam
+https://www.hemoam.am.gov.br/?secao=ouvidoria#anc_t
+
+5 - WhatsApp - 
+https://api.whatsapp.com/send?phone=559236550168
