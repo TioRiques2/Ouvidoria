@@ -1,0 +1,124 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2? family= Inter+Tight:wght@400;500 & display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter Tight', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+
+body{
+    height: 100vh;
+
+}
+
+main{
+    margin:30px auto 0;
+    width: 100vw;
+    max-width: 600px;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+header img{
+    width: 100px;
+   
+}
+
+header p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+section{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+   
+    
+}
+
+ul{
+    display: flex;
+    padding: 24px 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    
+}
+
+ul li{
+    padding: 10px 16px;
+
+    width: 80%;
+
+    border: 1px solid black;
+
+}
+
+ul li img{
+    width: 30px;
+}
+
+.image{
+   display: flex;
+   position: relative;
+}
+
+.image .nome{
+    background-color: aqua;
+    position: absolute;
+
+    left: 50%;
+    top: 50%;
+ 
+    transform: translate(-50%, -50%);
+
+}
+
+.avatar img{
+    width: 30px;
+}
+
+section .container{
+    width: 80%;
+    max-width: 500px;
+    height: 40px;
+    border: 1px solid black;
+    position: relative;
+    display: flex;
+    align-items: center;
+
+
+}
+
+section a .image img{
+    width: 30px;
+    padding-left: 5px;
+
+}
+
+section a .nome{
+    background-color: brown;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
